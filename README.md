@@ -6,11 +6,11 @@ From Wikipedia:
 
 ## Purpose
 
-As a single developer working on my own, without VC funding of any sort, nor dedicated engineering team to handle a complex architecture, developer performance and code maintainability are paramount. The purpose of these series of PoC is apply the concept of Acceptance Test Driven Development to my development process, and not only test my code, but also test the tools I will use to implement my code.
+As a single developer working on my own projects, without VC funding of any sort, nor dedicated engineering team to handle a complex architecture, developer performance and code maintainability are paramount. The purpose of these series of PoC is apply the concept of Acceptance Test Driven Development to my development process, and not only test my code, but also test the tools I will use to implement my code.
 
 ## Goal
 
-I want to make an educated decision based in the result of said tests in order to pick the tools best suited for my project, instead of letting second hand opinions to drive my decision.
+I want to make an educated decision based on the result of said tests in order to pick the tools best suited for my project, instead of letting second hand opinions to drive my decision.
 
 ---
 
